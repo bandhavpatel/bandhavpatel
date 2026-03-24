@@ -16,12 +16,12 @@ I have gained some significant experience in Python and Java.
 - Eclipse  
 - jGrasp  
 - Ubuntu (Linux)  
-- VMware Workstation
-- Netlify  
+- VMware Workstation 
 
 ### 🗄 Databases & Web Tools
 - MySQL  
-- XAMPP  
+- XAMPP
+- Netlify
 
 ### 🔍 Networking Tools
 - Wireshark  
