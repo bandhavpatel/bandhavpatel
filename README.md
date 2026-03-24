@@ -16,7 +16,8 @@ I have gained some significant experience in Python and Java.
 - Eclipse  
 - jGrasp  
 - Ubuntu (Linux)  
-- VMware Workstation  
+- VMware Workstation
+- Netlify  
 
 ### 🗄 Databases & Web Tools
 - MySQL  
