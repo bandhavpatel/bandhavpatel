@@ -10,22 +10,31 @@ I have gained some significant experience in Python and Java.
 - **Java**
 - **Python**
 - **HTML**
+- **SQL**
+- **CSS3**
 
 ### 🛠 Development Tools
 - Visual Studio Code  
 - Eclipse  
 - jGrasp  
 - Ubuntu (Linux)  
-- VMware Workstation 
+- VMware Workstation
+- Jupyter Notebook
 
 ### 🗄 Databases & Web Tools
-- MySQL  
+- SQL Workbench
+- phpMyAdmin
 - XAMPP
 - Netlify
 
 ### 🔍 Networking Tools
-- Wireshark  
+- Wireshark
+- Windows Command Prompt
 
+### Operating Systems
+- Windows 10/11
+- Linux (Ubuntu via VMware Workstation)
+- macOS
 
 Python
 ATM Prototype Project
