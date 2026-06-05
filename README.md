@@ -9,14 +9,16 @@ I have gained some significant experience in Python and Java.
 - **C, C++**
 - **Java**
 - **Python**
-- **HTML**
+- **HTML5**
 - **SQL**
 - **CSS3**
+- **PHP**
 
 ### 🛠 Development Tools
 - Visual Studio Code  
 - Eclipse  
-- jGrasp  
+- jGrasp
+- Android Studio
 - Ubuntu (Linux)  
 - VMware Workstation
 - Jupyter Notebook
@@ -42,6 +44,22 @@ ATM Prototype Project
 ·	 Implemented structured program flow by organizing account-management calculations and user interactions. 
 ·	 Created a flowchart using Microsoft Visio software including branching logic and multi-step decision structures. 
 ·	 Formatted the flowchart with several multiple step statements. 
+
+GR86 Aftermarket Parts E-Commerce Website
+Software Engineering Project | PHP, MySQL, XAMPP, phpMyAdmin, HTML, CSS
+·	 Designed and developed a database-driven e-commerce website for Toyota GR86 aftermarket parts.
+·	 Created and managed a MySQL database containing product, user, and shopping cart information.
+·	 Implemented user authentication, product catalog browsing, shopping cart functionality, and database connectivity using PHP and MySQL.
+·	 Utilized XAMPP and phpMyAdmin for local server hosting, database administration, and testing.
+·	 Deployed and tested web pages while maintaining responsive layouts and organized backend data management.
+
+Android Address Book Application
+Computer Science Project | Android Studio, Java, XML
+·	 Developing an Android application using Android Studio to manage and store contact information.
+·	 Implementing user interface components, activity navigation, data validation, and event handling.
+·	 Applying object-oriented programming principles and Android development practices.
+·	 Testing and debugging application functionality using Android Studio tools and emulators.
+·	 Collaborating with project requirements to create a functional mobile application.
 
 Java 
 Core Java Concepts 
