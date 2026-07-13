@@ -1,37 +1,46 @@
-Hi, my name is Bandhav Patel and I am currently a Senior studying Computer Science at Rutgers University.
-I have gained some significant experience in Python and Java.
+Hi, my name is Bandhav Patel and I just graduated at Rutgers University studying Computer Science with a Mathamatics minor.
+I have gained some significant experience in Python, Java, C, C++, HTML5, SQL, and PHP.
 - 💻 I am passionate about software engineering, machine learning, and backend development.
 - 📫 How to reach me through my email: bandhav.patel@gmail.com or my LinkedIn: https://www.linkedin.com/in/bandhav-patel-306573236/
 
 ## 💼 Technical Skills
 
 ### 🧩 Languages
-- **C, C++**
-- **Java**
-- **Python**
-- **HTML5**
-- **SQL**
-- **CSS3**
-- **PHP**
+- C
+- C++
+- Java
+- Python
+- PHP
+- SQL
+- HTML5
+- CSS3
+- XML
 
-### 🛠 Development Tools
-- Visual Studio Code  
-- Eclipse  
-- jGrasp
+### 🛠 Development Tools & IDEs
+- Visual Studio Code
 - Android Studio
-- Ubuntu (Linux)  
-- VMware Workstation
+- Eclipse
+- jGrasp
 - Jupyter Notebook
+- Git
+- GitHub
 
-### 🗄 Databases & Web Tools
-- SQL Workbench
-- phpMyAdmin
-- XAMPP
+### 🗄 Web & Deployment Tools
 - Netlify
+- XAMPP
+- Apache
+- phpMyAdmin
 
-### 🔍 Networking Tools
+### 🗄 Databases
+- MySQL
+- SQL Workbench
+
+### 🔍 Networking & System Tools
 - Wireshark
-- Windows Command Prompt
+- VMware Workstation Pro
+- Windows Command Prompt (CMD)
+- Ubuntu Terminal
+- Bash
 
 ### Operating Systems
 - Windows 10/11
