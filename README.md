@@ -42,7 +42,7 @@ I have gained some significant experience in Python, Java, C, C++, HTML5, SQL, a
 - Ubuntu Terminal
 - Bash
 
-### Operating Systems
+### 💻 Operating Systems
 - Windows 10/11
 - Linux (Ubuntu via VMware Workstation)
 - macOS
