@@ -53,6 +53,12 @@ Software Engineering Project | PHP, MySQL, XAMPP, phpMyAdmin, HTML, CSS
 ·	 Utilized XAMPP and phpMyAdmin for local server hosting, database administration, and testing.
 ·	 Deployed and tested web pages while maintaining responsive layouts and organized backend data management.
 
+Android Flag Quiz Application
+Computer Science Project | Android Studio | Java | XML
+·	 Developed an interactive Android Flag Quiz application featuring multiple-choice questions, score tracking, animations, and customizable quiz settings.
+·	 Designed responsive user interfaces using Java and XML while implementing activity navigation, data validation, debugging, and testing with Android Studio and Android emulators.
+·	 Applied object-oriented programming concepts to create an engaging educational mobile application.
+
 Android Address Book Application
 Computer Science Project | Android Studio, Java, XML
 ·	 Developing an Android application using Android Studio to manage and store contact information.
